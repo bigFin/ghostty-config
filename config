@@ -1,2 +1,5 @@
-theme = Everforest Dark - Hard
+theme = everforest-dark-hard
 window-decoration = false
+font-family = Iosevka term
+font-size = 15
+font-thicken = true
